@@ -1,2 +1,2 @@
-# estagio-target-sistemas
+# Estagio Target Sistemas - desafios
 Este repositório contém uma coleção de 5 projetos desenvolvidos. Cada projeto é independente e aborda diferentes desafios e conceitos técnicos.
