@@ -1,0 +1,15 @@
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\bin\Debug\net8.0\ValorDaSoma.exe
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\bin\Debug\net8.0\ValorDaSoma.deps.json
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\bin\Debug\net8.0\ValorDaSoma.runtimeconfig.json
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\bin\Debug\net8.0\ValorDaSoma.dll
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\bin\Debug\net8.0\ValorDaSoma.pdb
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\ValorDaSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\ValorDaSoma.AssemblyInfoInputs.cache
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\ValorDaSoma.AssemblyInfo.cs
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\ValorDaSoma.csproj.CoreCompileInputs.cache
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\ValorDaSoma.sourcelink.json
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\ValorDaSoma.dll
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\refint\ValorDaSoma.dll
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\ValorDaSoma.pdb
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\ValorDaSoma.genruntimeconfig.cache
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\ValorDaSoma\obj\Debug\net8.0\ref\ValorDaSoma.dll
