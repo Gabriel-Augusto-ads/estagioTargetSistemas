@@ -5,7 +5,7 @@ class VerificaLetraA
     static void Main()
     {
         // String definida no código
-        string textoDefinido = "Estudante de Análise e Desenvolvimento de Sistemas, focado em tecnologia e inovação";
+        string textoDefinido = "Estudante de Analise e Desenvolvimento de Sistemas";
 
         // Converte toda a string para minúsculas para simplificar a contagem
         string textoMinusculo = textoDefinido.ToLower();
