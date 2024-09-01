@@ -1,0 +1,15 @@
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\bin\Debug\net8.0\VerificaLetraA.exe
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\bin\Debug\net8.0\VerificaLetraA.deps.json
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\bin\Debug\net8.0\VerificaLetraA.runtimeconfig.json
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\bin\Debug\net8.0\VerificaLetraA.dll
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\bin\Debug\net8.0\VerificaLetraA.pdb
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\VerificaLetraA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\VerificaLetraA.AssemblyInfoInputs.cache
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\VerificaLetraA.AssemblyInfo.cs
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\VerificaLetraA.csproj.CoreCompileInputs.cache
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\VerificaLetraA.sourcelink.json
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\VerificaLetraA.dll
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\refint\VerificaLetraA.dll
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\VerificaLetraA.pdb
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\VerificaLetraA.genruntimeconfig.cache
+C:\Users\gaugu\DesafiosTargetSistemas\estagioTargetSistemas\Desafios\VerificaLetraA\obj\Debug\net8.0\ref\VerificaLetraA.dll
